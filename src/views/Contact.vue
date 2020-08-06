@@ -2,7 +2,7 @@
 <div id="contact">
   <div id="top" class="">
     <div id="title-back"></div><h1 class="m-0">聯絡我們</h1>
-    <img :src="'/img/carousel_04.jpg'">
+    <img :src="'./img/carousel_04.jpg'">
   </div>
   <div id="contact-box">
     <div class="container mt-5 p-5">
@@ -24,7 +24,7 @@
         </div>
         <div class="contact-table">
           <div class="container p-0">
-            <img :src="'/img/contact.png'" alt="">
+            <img :src="'./img/contact.png'" alt="">
           </div>
         </div>
       </div>

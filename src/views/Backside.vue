@@ -2,7 +2,7 @@
   <div id="back">
   <div id="top" class="">
     <div id="title-back"></div><h1 class="m-0">後台管理</h1>
-    <img :src="'/img/carousel_04.jpg'">
+    <img :src="'./img/carousel_04.jpg'">
   </div>
   <div class="container">
     <div class=" mb-3 mt-3">
