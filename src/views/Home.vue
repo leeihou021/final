@@ -26,7 +26,7 @@
       <h1 class="text-center mt-3">最新消息</h1>
       <div class="box mt-5">
       <ul v-for="(image, index) in images" :key='index'>
-        <li><a href="http://localhost:8080/new#/news"> <span class="news-title "> {{ image.text }}</span></a><span class="news-time mr-2"> {{ image.day }} </span></li>
+        <li><a href="https://leeihou021.github.io/final/#/news"> <span class="news-title "> {{ image.text }}</span></a><span class="news-time mr-2"> {{ image.day }} </span></li>
       </ul>
       </div>
     </div>

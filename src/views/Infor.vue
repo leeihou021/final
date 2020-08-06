@@ -10,7 +10,7 @@
       <div class="text-center">
         <img :src="'./news/news.jpg'">
         <img :src="'./news/news2.jpg'">
-        <b-btn onclick="location.href='http://localhost:8080/#/news'" class="mt-5"  variant="danger">返回</b-btn>
+        <b-btn onclick="location.href='https://leeihou021.github.io/final/#/news'" class="mt-5"  variant="danger">返回</b-btn>
       </div>
     </div>
   </div>
