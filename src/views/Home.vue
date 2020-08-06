@@ -14,7 +14,7 @@
         text="Nulla vitae elit libero, a pharetra augue mollis interdum."
         :img-src="'./img/carousel_01.jpg'"
       ></b-carousel-slide>
-      <b-carousel-slide img-src="./img/carousel_02.jpg">
+      <b-carousel-slide :img-src="'./img/carousel_02.jpg'">
         <h1>Hello world!</h1>
       </b-carousel-slide>
       <b-carousel-slide :img-src="'./img/carousel_03.jpg'"></b-carousel-slide>
