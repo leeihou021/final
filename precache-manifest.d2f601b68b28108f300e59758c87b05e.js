@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c4c7198401c3ef40a086",
+    "revision": "eb9e1e1b7d4f7dc7f21d",
     "url": "css/app.df415218.css"
   },
   {
@@ -92,48 +92,48 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/photo-1576488446348-dc792a38c4bf.jpg"
   },
   {
-    "revision": "12cfebee8ffdbaf40a6d97e412ec2075",
+    "revision": "55890e9fe1dfd5f6eb126af957d61923",
     "url": "index.html"
   },
   {
-    "revision": "e71ed264124052c50f3b",
-    "url": "js/about.a409f812.js"
+    "revision": "cfc755f9aacf636f68ce",
+    "url": "js/about.81e7d1fe.js"
   },
   {
-    "revision": "c4c7198401c3ef40a086",
-    "url": "js/app.f0a7dc39.js"
+    "revision": "eb9e1e1b7d4f7dc7f21d",
+    "url": "js/app.a1f14173.js"
   },
   {
-    "revision": "c180d1631df98b0a1e27",
-    "url": "js/back-news.d1f493bb.js"
+    "revision": "a11e24f806b7e66bcf7d",
+    "url": "js/back-news.cff36818.js"
   },
   {
-    "revision": "8c35b47c0d5b18d4c5b8",
-    "url": "js/backside.24172284.js"
+    "revision": "52538c023ff1813e6fdb",
+    "url": "js/backside.e3cdd049.js"
   },
   {
     "revision": "c032e5fbcd0ba9c68315",
     "url": "js/chunk-vendors.ca8e9f6a.js"
   },
   {
-    "revision": "5a67d9049719cd7d66c5",
-    "url": "js/contact.ef53e9ba.js"
+    "revision": "3ab8044aaf10e474e21e",
+    "url": "js/contact.c9c53300.js"
   },
   {
-    "revision": "586d8c87c4d2447a6a63",
-    "url": "js/home.f4380d1c.js"
+    "revision": "501e83f70bb2e98bf37c",
+    "url": "js/home.b68cc85b.js"
   },
   {
-    "revision": "8c64ddf3c11387d871fe",
-    "url": "js/infor.a70ff006.js"
+    "revision": "733fccaf7787291ba27f",
+    "url": "js/infor.77be7823.js"
   },
   {
-    "revision": "d7f29d8eadca839b821a",
-    "url": "js/news.35f700d8.js"
+    "revision": "0d150ba303a3fd2dba9b",
+    "url": "js/news.b12d984b.js"
   },
   {
-    "revision": "8a9987e44bcd41cbe174",
-    "url": "js/shop.1ddb238a.js"
+    "revision": "7101a71a61ef8dd3729b",
+    "url": "js/shop.d5257795.js"
   },
   {
     "revision": "1ecee0c343b1bc0443f2e6eba14ed6ff",
