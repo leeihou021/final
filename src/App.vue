@@ -5,7 +5,7 @@
         //- b-container(class='display:block')
         b-container
           router-link(to='/').d-flex.align-items-center.col-8.col-lg-11
-            img(:src="'./assets/breakfast.svg'")
+            img(:src="'./img/breakfast.svg'")
             b-navbar-brand(href='/')
               h2.ml-3 家榮早餐
               h5.ml-3 J.R breakfast
