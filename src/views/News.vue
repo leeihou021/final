@@ -11,7 +11,7 @@
       <div class="col-12 col-md-6 col-lg-4 col-xl-4 d-flex justify-content-center" v-for="(image, index) in items" :key='index'>
         <div class="pbox">
         <a href="http://localhost:8080/#/infor">
-        <div class="pic"><img :src="'image.src'" class="s"></div>
+        <div class="pic"><img :src="image.src" class="s"></div>
         <p class="picbox text-center mb-2">{{ (image.text.length > 10) ? image.text.substr(0,25)  + '...' :image.text }}</p></a>
         <p class="text-center mb-5"> {{ image.day }} </p>
         </div>
@@ -78,7 +78,6 @@ export default {
       .then(response => {
         this.images = response.data.result.map(d => {
           return {
-            popupActivo: false,
             day: d.day,
             text: d.description,
             src: process.env.VUE_APP_APIURL + '/new/' + d.name,
