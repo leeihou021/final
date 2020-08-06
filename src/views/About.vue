@@ -2,7 +2,7 @@
 <div id="about">
   <div id="top" class="">
     <div id="title-back"></div><h1 class="m-0">關於我們</h1>
-    <img :src="'./img/carousel_01.jpg'">
+    <img :src="'./img/carousel_03.jpg'">
   </div>
   <div class="d-flex justify-content-center align-items-center">
   <div class="container p-0 bg-white mt-5">
