@@ -2,7 +2,7 @@
 <div id="news-page">
   <div id="top" class="">
     <div id="title-back"></div><h1 class="m-0">最新消息</h1>
-    <img :src="'/img/carousel_02.jpg'">
+    <img :src="'./img/carousel_02.jpg'">
   </div>
   <div id="main-box">
     <div class="container">
@@ -11,7 +11,7 @@
       <div class="col-12 col-md-6 col-lg-4 col-xl-4 d-flex justify-content-center" v-for="(image, index) in items" :key='index'>
         <div class="pbox">
         <a href="http://localhost:8080/#/infor">
-        <div class="pic"><img :src='image.src' class="s"></div>
+        <div class="pic"><img :src="'image.src'" class="s"></div>
         <p class="picbox text-center mb-2">{{ (image.text.length > 10) ? image.text.substr(0,25)  + '...' :image.text }}</p></a>
         <p class="text-center mb-5"> {{ image.day }} </p>
         </div>

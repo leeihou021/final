@@ -17,7 +17,7 @@
           animateClass="animated"
           :begin="false"
           >
-          <img class="a" src="https://picsum.photos/1920/1080/?random=1" alt="">
+          <img class="a" :src="'https://picsum.photos/1920/1080/?random=1'" alt="">
         </u-animate>
       </u-animate-container>
       <div class="col-lg-7 col-12 mt-5 overflow-hidden">
@@ -40,7 +40,7 @@
           animateClass="animated"
           :begin="false"
           >
-          <img class="a" src="https://picsum.photos/1920/1080/?random=3" alt="">
+          <img class="a" :src="'https://picsum.photos/1920/1080/?random=3'" alt="">
         </u-animate>
       </u-animate-container>
       <div class="col-lg-7 col-12 mt-5 overflow-hidden">

@@ -3,7 +3,7 @@
     #top
       #title-back
       h1.m-0 管理登入
-      img(:src="'/img/carousel_04.jpg'")
+      img(:src="'./img/carousel_04.jpg'")
     b-container.mt-5
         b-row
           b-col(cols="12")

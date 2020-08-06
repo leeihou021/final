@@ -3,7 +3,7 @@
     #top
       #title-back
       h1.m-0 後台註冊
-      img.top-img(:src="'/img/carousel_03.jpg'")
+      img.top-img(:src="'./img/carousel_03.jpg'")
     b-container.mt-5
         b-row
           b-col(cols="12")

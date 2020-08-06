@@ -3,7 +3,7 @@
   #top
     #title-back
     h1.m-0 產品介紹
-    img.top-img(:src="'/img/carousel_03.jpg'")
+    img.top-img(:src="'./img/carousel_03.jpg'")
   b-container.pt-2
     #menu-box
       b-row.mt-5
